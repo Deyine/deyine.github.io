@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "My portfolio website",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Deyine/deyine.github.io.git"
+  },
+  "scripts": {
+    "start": "http-server"
+  },
+  "contributors": [
+    {
+      "name": "Deyine Jiddou",
+      "email": "deyine.jiddou@gmail.com"
+    }
+  ],
+  "devDependencies": {
+    "http-server": "0.10.0"
+  }
+}
